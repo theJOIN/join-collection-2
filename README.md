@@ -1,2 +1,4 @@
-# join-collection-2
-Perturbation Analysis Over Selected Metastatic Melanoma Cell Lines
+# Collection No. 2
+## [Perturbation Analysis Over Selected Metastatic Melanoma Cell Lines](https://amp.pharm.mssm.edu/join/collections/2)
+
+The second collection of the Journal of Interactive Notebooks features nine Jupyter Notebooks performing perturbation analysis across five distinct malignant melanoma cell lines. Predominantly found in the skin, metastatic melanoma is one of the most aggressive forms of cancer; it can quickly spread to other internal organs and can consequently significantly lower life expectancy. The BioJupies Jupyter notebook generator performed data analysis on nine Gene Expression Omnibus (GEO) Datasets corresponding to knockdown, overexpression, and other forms of perturbation analysis in metastatic melanoma cell lines. Each notebook in this collection has performed dimensionality reduction of the dataset via Principal Component Analysis (PCA), as well as a Library Size analysis of the dataset and found Differential Expression signatures of affected proteins. Additional analysis tools such as Gene Ontology, Kinase Enrichment, and Transcription Factor Enrichment is shown, as well as visuzliation tools such as the Clustergrammer interactive heatmap and the L1000FWD small molecule query fireworks display.
